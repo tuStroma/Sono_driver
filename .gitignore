@@ -1,0 +1,28 @@
+# Build directories
+Debug/
+Release/
+
+# User specific settings
+.settings/
+*.launch
+*.jlink
+*.log
+
+# Build artifacts
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+*.lst
+*.o
+*.d
+*.su
+*.a
+*.crl
+
+# Other
+Drivers/
+.metadata/
+*.ld
+
